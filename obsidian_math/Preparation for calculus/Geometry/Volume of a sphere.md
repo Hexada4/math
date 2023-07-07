@@ -1,0 +1,1 @@
+The formula for the volume of a sphere is V = 4/3 π r³, where V = volume and r = radius. The radius of a sphere is half its diameter. So, to calculate the surface area of a sphere given the diameter of the sphere, you can first calculate the radius, then the volume
